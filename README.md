@@ -1,4 +1,4 @@
-# Hi, I'm Seryun Hong 👋
+# Hi, I'm Seryun👋
 
 I'm a student developer interested in AI Vision, Embedded Systems, IoT, Physical Computing, and future technology.
 
